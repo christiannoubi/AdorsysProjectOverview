@@ -1,4 +1,4 @@
-package com.example.Adorsys;
+package de.Adorsys.projectoverview.domain;
 
 public class Employee {
 
