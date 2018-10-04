@@ -1,4 +1,4 @@
-package de.Adorsys.projectoverview.domain;
+package de.Adorsys.project.overview.domain;
 
 import java.sql.Time;
 import java.util.Date;
